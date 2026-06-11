@@ -15,6 +15,14 @@ The Mistral Cookbook features examples contributed by Mistralers and our communi
 
 Disclaimer: Examples contributed by the community and partners do not represent Mistral's views and opinions.
 
+# NeuroNest AI Application Development Tool
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI application development tool designed to help developers build, test, secure, and improve software projects with greater efficiency. It supports coding assistance, debugging, DevOps automation, workflow planning, and technical research, making it useful for teams that want a smarter AI-powered development process.
+
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## Content Guidelines:
 
 - Originality: Is your content original and offering a fresh perspective?
